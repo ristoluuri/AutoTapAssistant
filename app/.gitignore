@@ -1,0 +1,32 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration files
+local.properties
+.idea/
+*.iml
+
+# Log files
+*.log
+
+# Android Studio captures
+captures/
+
+# Mac / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# APKs and outputs
+*.apk
+*.ap_ 
+*.aab
+output.json
+
+# NDK / C++ intermediate files
+obj/
+*.so
+
+# JetBrains specific
+*.iws
+out/
