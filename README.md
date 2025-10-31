@@ -8,7 +8,7 @@ It does **not remove or block ads** — it only taps the "Skip" button when it b
 
 ---
 
-## ✨ Features
+## Features
 
 - Detects on-screen "Skip Ad" button
 - Simulates user tap via Android Accessibility Service
@@ -18,5 +18,13 @@ It does **not remove or block ads** — it only taps the "Skip" button when it b
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
+app/src/main/
+```bash
+src/
+├─ java/com/example/skipper/
+│ ├─ MainActivity.kt # UI toggle + permissions
+│ └─ SkipAdService.kt # Accessibility service logic
+└─ AndroidManifest.xml # Declares accessibility service
+```
