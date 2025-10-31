@@ -20,10 +20,11 @@ It does **not remove or block ads** — it only taps the "Skip" button when it b
 
 ## Project Structure
 
-app/src/main/
 ```bash
-├─ java/com/example/skipper/
-│ ├─ MainActivity.kt # UI toggle + permissions
-│ └─ SkipAdService.kt # Accessibility service logic
-└─ AndroidManifest.xml # Declares accessibility service
+app/src/main/
+ ├─ java/com/example/skipper/
+ │   ├─ MainActivity.kt               # UI toggle + permissions
+ │   └─ SkipAdService/                # Folder for service files
+ │        └─ SkipAdService.kt         # Accessibility service logic
+ └─ AndroidManifest.xml               # Declares accessibility service
 ```
