@@ -28,3 +28,62 @@ app/src/main/
  │        └─ SkipAdService.kt         # Accessibility service logic
  └─ AndroidManifest.xml               # Declares accessibility service
 ```
+---
+
+## 🛠 Tech Stack
+
+- **Kotlin**
+- **Android Accessibility Service**
+- Android Studio
+- Gradle Build System
+
+---
+
+## 🚀 Getting Started
+
+### Requirements
+- Android Studio installed
+- Android device or emulator with Accessibility Services enabled
+
+### Run Locally
+1. Clone the repo
+2. Open in Android Studio
+3. Build & run the project on a device
+4. Enable Accessibility permission for the app in device settings
+
+---
+
+## ⚠️ Legal & Ethical Notes
+
+This app **does not remove ads** — it only clicks visible UI elements.  
+However:
+
+- Some platforms may consider automated ad-skipping a violation of terms
+- Do not publish this on Google Play
+- Use responsibly & at your own risk
+
+This project is intended **only for learning automation & accessibility APIs**.
+
+---
+
+## 📖 About Me
+
+Self-taught developer exploring automation, UX, and Android Accessibility services.  
+Building practical tools to improve everyday workflows and learn system-level programming.
+
+---
+
+## ⭐ Future Ideas
+
+- Configurable UI target detection
+- Screen OCR trigger instead of text-match
+- Multi-app support
+- On-device ML model for UI element recognition
+
+---
+
+## 📬 Feedback / Contact
+
+If you have feedback or learning suggestions, feel free to open an issue or message me!
+
+---
