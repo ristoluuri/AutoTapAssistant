@@ -22,7 +22,6 @@ It does **not remove or block ads** — it only taps the "Skip" button when it b
 
 app/src/main/
 ```bash
-src/
 ├─ java/com/example/skipper/
 │ ├─ MainActivity.kt # UI toggle + permissions
 │ └─ SkipAdService.kt # Accessibility service logic
