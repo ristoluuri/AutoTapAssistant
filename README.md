@@ -72,18 +72,3 @@ Self-taught developer exploring automation, UX, and Android Accessibility servic
 Building practical tools to improve everyday workflows and learn system-level programming.
 
 ---
-
-## ⭐ Future Ideas
-
-- Configurable UI target detection
-- Screen OCR trigger instead of text-match
-- Multi-app support
-- On-device ML model for UI element recognition
-
----
-
-## 📬 Feedback / Contact
-
-If you have feedback or learning suggestions, feel free to open an issue or message me!
-
----
